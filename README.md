@@ -3,4 +3,7 @@ The program used 1D or 2D thermal model to fit different parameter we needed. Yo
 
 ## Step for usage
 1. Download and Install this software with  Matlab Runtime.
-2. enjoy!
+2. From here, we should choose par file and pump and probe phase&frequency file.
+   \\
+   ![](./1.png)
+3. 
