@@ -30,7 +30,7 @@ i.e.
 - sample signal file
 - reference signal file
 
-In the software interface, use 'selectParfile' button the choose par file , 'SelectRfile' to choose reference  signal file, 'SelectSfile' to choose sample signal file. It should be noted that par file name should be named by the model.  For the materials 80nmAu-500nm$SiO_2$-30nm$Al_2O_3$-Si, the par file name is **Au_80_SiO2_500_Al2O3_30_Si_1.par**, The '1' means that Si  can be considered infinitely thick and it is necessary.  
+In the software interface, use 'selectParfile' button the choose par file , 'SelectRfile' to choose reference  signal file, 'SelectSfile' to choose sample signal file. It should be noted that par file name should be named by the model.  For the materials 80nmAu-500nm $SiO_2$ -30nm $Al_2O_3$ -Si, the par file name is **Au_80_SiO2_500_Al2O3_30_Si_1.par**, The '1' means that Si  can be considered infinitely thick and it is necessary.  
 
 
 All of these have an example in this repo. In the par file, the heat model was noted. And you need get two kinds of signal from your FDTR system. Detail messages
@@ -85,7 +85,7 @@ It can fit some parameter you wrote in 'FitPars' box. And the fitting result wil
 4. Use 'SelectRarFile' button to select your reference signal file
 5. write some parameters position in 'FitPars' box.    e.g.  3231 means the parameters in  the third row and second column  and in  the third row and first column  in the par file.
 
-And you will find the two parameter's fitting value is shown in log panel. If you want to see the orignal data you can  Select 'pump'/'probe'/'pump-probe' selection in 'Drop Down' button. Before changing the selection, you'd better to use 'CleanSreen' button to clean the figure. Only when you select 'sensitivity' in 'Drop Down', the right figure can be clean.
+And you will find the two parameter's fitting value is shown in log panel. If you want to see the orignal data you can  Select 'pump'/'probe'/'pump-probe' selection in 'Drop Down' button. Before changing the selection, you'd better to use 'CleanSreen' button to clean the figure. Only when you select 'sensitivity' in 'Drop Down', the right figure can be clear.
 
 
 
