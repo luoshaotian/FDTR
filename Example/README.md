@@ -8,7 +8,7 @@ DimensionSelect is 2, you can also select 1
 
 In this example, I only changed the thermal conductivity of SiO2 from 1.38 to 0.1 to 20 ( manually change the value in par file)
 
-![](https://github.com/luoshaotian/FDTR_fit/blob/main/Example/pre_analysis_exmaple.png)
+![](https://github.com/luoshaotian/FDTR_fit/blob/main/Example/pre_analysis_example.png)
 
 3. final result example
-![](https://github.com/luoshaotian/FDTR_fit/blob/main/Example/final_result_exmaple.png)
+![](https://github.com/luoshaotian/FDTR_fit/blob/main/Example/final_result_example.png)
