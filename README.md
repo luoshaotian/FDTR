@@ -43,7 +43,7 @@ There have three functions in this software which are FDTR fitting, sensitivity 
 ### pre-analysis
 
 When you decide to use FDTR to measure material's thermal conductivity, the first thing you should do is making a par file for the model. For example, there is a 
-sample model which was made by 80nmAu-500nm$SiO_2$-30nm$Al_2O_3$-Si. And I will make a par file for it as the picture shown below.
+sample model which was made by 80nmAu-500nm $SiO_2$ -30nm $Al_2O_3$ -Si. And I will make a par file for it as the picture shown below.
 
 ![](https://github.com/luoshaotian/FDTR_fit/blob/main/pic/5.png)
 
