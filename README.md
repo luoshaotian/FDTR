@@ -2,7 +2,7 @@
 The program used 1D or 2D thermal model to fit different parameter we needed. You only need prepare csv file containning frequency & phase information of probe and pump( post sample) and a par file storing the original information of each layer.
 The software interface is shown below.
 
-[](https://github.com/luoshaotian/FDTR_fit/tree/main/pic/6.png)
+![](https://github.com/luoshaotian/FDTR_fit/tree/main/pic/6.png)
 
 In the software interface, 'Drop Down' button can switch the selection symbolized three methods mentioned above. When you select 'analysis' button, pre-analysis function is selected. 
 
@@ -34,7 +34,7 @@ In the software interface, use 'selectParfile' button the choose par file , 'Sel
 
 
 All of these have an example in this repo. In the par file, the heat model was noted. And you need get two kinds of signal from your FDTR system. Detail messages
-can find from ![here](https://github.com/luoshaotian/FDTR_fit/tree/main/Example/README.md)     
+can find from [here](https://github.com/luoshaotian/FDTR_fit/tree/main/Example/README.md)     
 
 ## Function introduction
 
@@ -45,7 +45,7 @@ There have three functions in this software which are FDTR fitting, sensitivity 
 When you decide to use FDTR to measure material's thermal conductivity, the first thing you should do is making a par file for the model. For example, there is a 
 sample model which was made by 80nmAu-500nm$SiO_2$-30nm$Al_2O_3$-Si. And I will make a par file for it as the picture shown below.
 
-[](https://github.com/luoshaotian/FDTR_fit/tree/main/pic/5.png)
+![](https://github.com/luoshaotian/FDTR_fit/tree/main/pic/5.png)
 
 Actually, this step is "Data preparation". However, when I make samples, whether it have some methods to guide me so that my samples can measure good data?
 The pre-analysis do this thing.
